@@ -357,6 +357,8 @@ Abra uma *issue* com a ideia ou envie um *pull request*. Antes, rode `npm test` 
     </td>
 
     <!-- NOVO_CONTRIBUIDOR_AQUI -->
+    "Giorgio de Carvalho Bezerra"
+    "Alteração do desafio final!"
 
   </tr>
 </table>
